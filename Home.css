@@ -18,7 +18,7 @@
 .u-section-1 .u-image-1 {
   width: 569px;
   height: 569px;
-  background-image: url("images/fgfg-min.jpg");
+  background-image: url("images/fgfg-min-4.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
@@ -619,6 +619,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  background-image: none;
   margin: 30px auto 60px;
 }
 
